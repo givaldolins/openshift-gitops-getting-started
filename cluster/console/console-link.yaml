@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: application-menu-rh-developer-blog
 spec:
-  href: 'https://developers.redhat.com/topics/kubernetes'
+  href: 'https://arctiq.ca'
   location: ApplicationMenu
-  text: Red Hat Developer Blog - Kubernetes
+  text: Arctiq website
   applicationMenu:
     section: Kubernetes Blogs
-    imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
+    imageURL: https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xiofvszdttfldip46xrl
